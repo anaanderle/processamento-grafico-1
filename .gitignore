@@ -1,9 +1,12 @@
+.idea
+
 # Ignorar a pasta de build e arquivos temporários do CMake
 /build/
 /CMakeCache.txt
 /CMakeFiles/
 /Makefile
 /cmake_install.cmake
+CMakelists.txt
 
 # Ignorar arquivos de saída do compilador (objetos e executáveis)
 *.o
